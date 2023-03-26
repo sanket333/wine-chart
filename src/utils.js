@@ -27,6 +27,5 @@ export const getOption = ({xAxis, yAxis, type}) => {
           }
         ]
       }
-      console.log(option);
       return option;
 }
